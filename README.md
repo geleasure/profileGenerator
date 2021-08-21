@@ -65,7 +65,7 @@ Contributing is welcome and easy. <br> If you like the project and feel you woul
 *Tests that have been run, and how to run them:*
 
 There are test files to accompany the constructor object class files. Tests have been run using ```jest``` and all succesfully pass. After installing ```jest``` by using the following command: <br><br> ```npm install --save-dev jest``` <br><br> you can run the following jest command to initiate the jest tests:
-
+```jest --verbose```
 
 ---
 

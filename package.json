@@ -9,8 +9,7 @@
     },
     "dependencies": {
         "0g": "^0.0.4",
-        "inquirer": "^7.3.3",
-        "jest": "^26.6.3"
+        "inquirer": "^7.3.3"
     },
     "scripts": {
         "test": "jest --verbose"
@@ -24,5 +23,8 @@
     "bugs": {
         "url": "https://github.com/geleasure/profileGenerator/issues"
     },
-    "homepage": "https://github.com/geleasure/profileGenerator#readme"
+    "homepage": "https://github.com/geleasure/profileGenerator#readme",
+    "devDependencies": {
+        "jest": "^27.0.6"
+    }
 }
