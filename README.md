@@ -42,7 +42,7 @@ You can either clone this repository to a local directory or you can fork this r
 
 *How to use this project:*
 
-Once the repository has been locally copied via either of the previous methods, then from bash shell and within the working directory you will need to install the ```inquirer``` module using the following command: <br><br> ```npm i inquirer``` <br><br> Then you will need to execute the following command: <br><br> ```node index.js``` <br><br> The from which you will be prompted for answers to a series of questions/prompts, after providing responses to the questions, the index.html file will be created in the directory named ```dist```. <br> <br> For a more detailed explanation please use the below link to view the video on how to do this: <br><br> Click this link to access the video: [Demonstration Video](NEED TO FIX) <br> <br>![Demo gif](./demo/team_profile_generator_demo.gif1)
+Once the repository has been locally copied via either of the previous methods, then from bash shell and within the working directory you will need to install the ```inquirer``` module using the following command: <br><br> ```npm i inquirer``` <br><br> Then you will need to execute the following command: <br><br> ```node index.js``` <br><br> The from which you will be prompted for answers to a series of questions/prompts, after providing responses to the questions, the index.html file will be created in the directory named ```dist```. <br> <br> For a more detailed explanation please use the below link to view the video on how to do this: <br><br> Click this link to access the video: [Demonstration Video](https://youtu.be/-9_rYwq7uSY) <br> <br>![Demo gif](./demo/video22.gif)
 
 
 ---
