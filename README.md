@@ -86,7 +86,7 @@ MIT License - for more detail [Visit Site](https://opensource.org/licenses/MIT)
 
 *For any questions regarding this project, please use either of the below contact details:*
 
-GitHub: [@geleasure](https://github.com/geleasure)
+GitHub: [geleasure](https://github.com/geleasure)
 
 Email: geleasure@gmail.com
 
